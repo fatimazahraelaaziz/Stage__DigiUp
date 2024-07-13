@@ -12,7 +12,6 @@ the tools used are:
 - Kubernetes (Microk8s)
 - Jenkins
 - Docker registry
-- ELK- elasticsearch / kibana / filebeat for monitoring
 - github
 - the application to be deployed
 
