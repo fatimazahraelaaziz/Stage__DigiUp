@@ -1,4 +1,4 @@
-# stage-digiup
+# Stage-digiup
 
 
 The project is about the implementation of a devops solution for the deploeyement of a springboot application:
@@ -6,14 +6,14 @@ The project is about the implementation of a devops solution for the deploeyemen
 
 <img width="392" alt="archi" src="https://user-images.githubusercontent.com/78829346/184507048-d2f72ca8-daed-49e6-880f-1a3f69ed6eaa.png">
 
-the tools used are:
+The tools used are:
 - Lxc/lxd 
 - Docker 
 - Kubernetes (Microk8s)
 - Jenkins
 - Docker registry
-- github
-- the application to be deployed
+- Github
+- The application to be deployed
 
 In this case we worked on a virtual machine that has as an OS ubuntu:22.04 in which we created the following lxc containers:
 
@@ -23,8 +23,6 @@ In this case we worked on a virtual machine that has as an OS ubuntu:22.04 in wh
 - ngpm: for the reverse proxy
 - mongodb: for tha database
 - microk8s: for the cluster kubernetes where the application will be deployed then being accessible from the network
-- esk: for elasticsearch and kibana tnat will serve for the monitoring
-
 
 
 
