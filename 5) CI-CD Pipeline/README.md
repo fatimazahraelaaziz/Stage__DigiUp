@@ -284,7 +284,7 @@ this pipeline has four stages:
 3) Uploading to Nexus : this stage upload the docker image built to the nexus docker registry 
 4) stop previous containers stage : this stage consists on stoping the previous containers
 5) Docker Run stage :this stage runs the docker images
-6) Deploy on kubernetes stage: this stages consists on deploying the application to the cubernetes cluster. make sure to change the configs parameter by the file YAML of your application 
+6) Deploy on kubernetes stage: this stages consists on deploying the application to the kubernetes cluster. make sure to change the configs parameter by the file YAML of your application 
 
 
 click on apply then save
