@@ -12,7 +12,7 @@ lxc launch ubuntu:20.04 private-docker-registry
 ```
 lxc exec private-docker-registry -- sudo /bin/bash
 ```
- 3) we start instlling the nexus docker registry
+ 3) we start installing the nexus docker registry
 
 in this step we need these Prerequisites:
 - Open JDK 8
@@ -24,7 +24,7 @@ in this step we need these Prerequisites:
 
 >you can go through Nexus artifactory official page to know more about system requirement for Nexus.
 
-*update the system packages and Install OpenJDK 1.8 
+* Update the system packages and Install OpenJDK 1.8 
 
 
 ```
