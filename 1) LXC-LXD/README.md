@@ -1,4 +1,4 @@
-# installation des conteneurs LXC/lxd 
+# LXC/LXC containers installation 
 > **Note:** These step has been tested on Ubuntu 22.04 
 ### Install the snap package
 ```
