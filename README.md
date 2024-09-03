@@ -1,7 +1,7 @@
 # Stage-digiup
 
 
-The project is about the implementation of a devops solution for the deploeyement of a springboot application:
+The project is about the implementation of a devops solution for the deployment of a springboot application:
 
 
 <img width="392" alt="archi" src="https://user-images.githubusercontent.com/78829346/184507048-d2f72ca8-daed-49e6-880f-1a3f69ed6eaa.png">
