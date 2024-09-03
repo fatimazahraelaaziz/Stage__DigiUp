@@ -21,7 +21,7 @@ In this case we worked on a virtual machine that has as an OS ubuntu:22.04 in wh
 
 - private-docker-registry: for the docker registry where we will store the docker images of the application to deploy
 - ngpm: for the reverse proxy
-- mongodb: for tha database
+- mongodb: for the database
 - microk8s: for the cluster kubernetes where the application will be deployed then being accessible from the network
 
 
