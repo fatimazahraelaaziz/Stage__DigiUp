@@ -1,5 +1,5 @@
 # LXC/LXC containers installation 
-> **Note:** These step has been tested on Ubuntu 22.04 
+> **Note:** These steps have been tested on Ubuntu 22.04 
 ### Install the snap package
 ```
 sudo snap install lxd --channel=4.0/stable
